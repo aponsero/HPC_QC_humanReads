@@ -1,0 +1,4 @@
+Perhe208_B5,Perhe208_B5_host_removed_R1.fastq.gz,Perhe208_B5_host_removed_R2.fastq.gz
+Perhe342_B5,Perhe342_B5_host_removed_R1.fastq.gz,Perhe342_B5_host_removed_R2.fastq.gz
+Perhe472_B5,Perhe472_B5_host_removed_R1.fastq.gz,Perhe472_B5_host_removed_R2.fastq.gz
+Perhe519_B5,Perhe519_B5_host_removed_R1.fastq.gz,Perhe519_B5_host_removed_R2.fastq.gz
